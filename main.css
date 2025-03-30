@@ -1,0 +1,45 @@
+body,html {
+    margin:0px;
+    padding:0px;
+    background-color:lightgrey;
+    /* I almost feel bad for doing this */
+    cursor:wait;
+}
+
+.head {
+    height:60px;
+    background-color:white;
+}
+
+.h_main_button {
+    background-color:white;
+    border-style:none;
+    padding:0px;
+    height:100%;
+    cursor:pointer;
+}
+
+.h_main_button * {
+    margin:0px;
+}
+
+.leaf {
+    height: 50%;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+
+.center {
+    display:inline-block;
+    vertical-align: middle;
+}
+
+.h_list_button {
+    background:pink;
+    border-style:none;
+    padding:0px;
+    height:100%;
+    cursor:pointer;
+}
+
